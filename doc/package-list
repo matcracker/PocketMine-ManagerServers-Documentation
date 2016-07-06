@@ -1,5 +1,6 @@
 com.matcracker.PMManagerServers
 com.matcracker.PMManagerServers.API
+com.matcracker.PMManagerServers.commands
 com.matcracker.PMManagerServers.informations
 com.matcracker.PMManagerServers.installer
 com.matcracker.PMManagerServers.lang
